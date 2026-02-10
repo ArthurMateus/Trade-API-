@@ -1,0 +1,3420 @@
+[
+  {
+    "currencyTradeId": "abandoned-wealth",
+    "history": [
+      {
+        "chaos": {
+          "volume": 6,
+          "bid": 0.2,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "allflame-ember-of-propagation",
+    "history": [
+      {
+        "chaos": {
+          "volume": 23,
+          "bid": 0.0030303030303030303,
+          "ask": 0.0026455026455026454
+        },
+        "divine": {
+          "volume": 16,
+          "bid": 0.6666666666666666,
+          "ask": 0.5333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "allflame-ember-of-the-gilded",
+    "history": [
+      {
+        "chaos": {
+          "volume": 135,
+          "bid": 0.008849557522123894,
+          "ask": 0.008
+        },
+        "divine": {
+          "volume": 10,
+          "bid": 1.6666666666666667,
+          "ask": 1.6666666666666667
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ambush-scarab-of-containment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 428,
+          "bid": 0.0031645569620253164,
+          "ask": 0.0027100271002710027
+        },
+        "divine": {
+          "volume": 169,
+          "bid": 0.6666666666666666,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ambush-scarab-of-discernment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 3312,
+          "bid": 0.016666666666666666,
+          "ask": 0.013888888888888888
+        },
+        "divine": {
+          "volume": 265,
+          "bid": 3.6,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "an-audience-with-the-king",
+    "history": [
+      {
+        "chaos": {
+          "volume": 193,
+          "bid": 0.05,
+          "ask": 0.03225806451612903
+        },
+        "divine": {
+          "volume": 40,
+          "bid": 5.714285714285714,
+          "ask": 5.714285714285714
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "arrogance-of-the-vaal",
+    "history": [
+      {
+        "chaos": {
+          "volume": 6,
+          "bid": 0.3333333333333333,
+          "ask": 0.3333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "awakening-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 447,
+          "bid": 0.1111111111111111,
+          "ask": 0.058823529411764705
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 8,
+          "ask": 8
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "barans-crest",
+    "history": [
+      {
+        "chaos": {
+          "volume": 68,
+          "bid": 0.06666666666666667,
+          "ask": 0.03333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "black-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 152,
+          "bid": 0.2,
+          "ask": 0.09090909090909091
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "blight-scarab-of-invigoration",
+    "history": [
+      {
+        "chaos": {
+          "volume": 276,
+          "bid": 0.025,
+          "ask": 0.01694915254237288
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 4,
+          "ask": 4
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "broken-promises",
+    "history": [
+      {
+        "chaos": {
+          "volume": 2,
+          "bid": 0.0625,
+          "ask": 0.0625
+        },
+        "divine": {
+          "volume": 6,
+          "bid": 1,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "brush-paint-and-palette",
+    "history": [
+      {
+        "chaos": {
+          "volume": 9,
+          "bid": 0.25,
+          "ask": 0.25
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "cartographers-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 21,
+          "bid": 0.2,
+          "ask": 0.19230769230769232
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "abyssal-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 10,
+          "bid": 1,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "akils-prophecy",
+    "history": [
+      {
+        "chaos": {
+          "volume": 33,
+          "bid": 0.2,
+          "ask": 0.05
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "al-hezmins-crest",
+    "history": [
+      {
+        "chaos": {
+          "volume": 82,
+          "bid": 0.3333333333333333,
+          "ask": 0.0625
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "allflame-ember-of-kulemak",
+    "history": [
+      {
+        "chaos": {
+          "volume": 13,
+          "bid": 0.0008156606851549756,
+          "ask": 0.0006920415224913495
+        },
+        "divine": {
+          "volume": 61,
+          "bid": 0.15384615384615385,
+          "ask": 0.125
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "allflame-ember-of-the-ethereal",
+    "history": [
+      {
+        "chaos": {
+          "volume": 70,
+          "bid": 0.006172839506172839,
+          "ask": 0.003355704697986577
+        },
+        "divine": {
+          "volume": 25,
+          "bid": 1,
+          "ask": 0.6666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "armoursmiths-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 510,
+          "bid": 0.16666666666666666,
+          "ask": 0.125
+        },
+        "divine": {
+          "volume": 22,
+          "bid": 22.0,
+          "ask": 22.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "awakeners-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 19,
+          "bid": 0.0017857142857142857,
+          "ask": 0.0009090909090909091
+        },
+        "divine": {
+          "volume": 46,
+          "bid": 0.2222222222222222,
+          "ask": 0.16666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "azyrans-reward",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.2,
+          "ask": 0.2
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T18:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "blacksmiths-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 637,
+          "bid": 0.2,
+          "ask": 0.14285714285714285
+        },
+        "divine": {
+          "volume": 46,
+          "bid": 23.0,
+          "ask": 23.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "blazing-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 191,
+          "bid": 0.058823529411764705,
+          "ask": 0.03333333333333333
+        },
+        "divine": {
+          "volume": 50,
+          "bid": 10,
+          "ask": 10
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "blight-scarab-of-blooming",
+    "history": [
+      {
+        "chaos": {
+          "volume": 244,
+          "bid": 0.1111111111111111,
+          "ask": 0.06896551724137931
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "blighted-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 17,
+          "bid": 0.25,
+          "ask": 0.25
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "cartography-scarab-of-risk",
+    "history": [
+      {
+        "chaos": {
+          "volume": 254,
+          "bid": 0.012987012987012988,
+          "ask": 0.010526315789473684
+        },
+        "divine": {
+          "volume": 20,
+          "bid": 2,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "chimer",
+    "history": [
+      {
+        "chaos": {
+          "volume": 57,
+          "bid": 0.2,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "comprehensive-scouting-report",
+    "history": [
+      {
+        "chaos": {
+          "volume": 85,
+          "bid": 0.1111111111111111,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "cosmic-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 726,
+          "bid": 0.06666666666666667,
+          "ask": 0.038461538461538464
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "crescent-splinter",
+    "history": [
+      {
+        "chaos": {
+          "volume": 184,
+          "bid": 0.14285714285714285,
+          "ask": 0.06666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "darker-half",
+    "history": [
+      {
+        "chaos": {
+          "volume": 57,
+          "bid": 0.019230769230769232,
+          "ask": 0.017857142857142856
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "deafening-essence-of-sorrow",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1806,
+          "bid": 0.15384615384615385,
+          "ask": 0.1111111111111111
+        },
+        "divine": {
+          "volume": 3317,
+          "bid": 25,
+          "ask": 23.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "decaying-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 479,
+          "bid": 1,
+          "ask": 0.025
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "dementophobia",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1,
+          "bid": 1,
+          "ask": 1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "dense-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 2847,
+          "bid": 0.25,
+          "ask": 0.16666666666666666
+        },
+        "divine": {
+          "volume": 956,
+          "bid": 40,
+          "ask": 36.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "desecrated-virtue",
+    "history": [
+      {
+        "chaos": {
+          "volume": 15,
+          "bid": 0.007407407407407408,
+          "ask": 0.006666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "divine",
+    "history": [
+      {
+        "chaos": {
+          "volume": 11254,
+          "bid": 0.005555555555555556,
+          "ask": 0.004545454545454545
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "doryanis-epiphany",
+    "history": [
+      {
+        "chaos": {
+          "volume": 24,
+          "bid": 0.08333333333333333,
+          "ask": 0.05
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "droxs-crest",
+    "history": [
+      {
+        "chaos": {
+          "volume": 82,
+          "bid": 0.1,
+          "ask": 0.0625
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "echo-of-loneliness",
+    "history": [
+      {
+        "chaos": {
+          "volume": 9,
+          "bid": 0.02,
+          "ask": 0.011764705882352941
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "elders-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 45,
+          "bid": 0.021739130434782608,
+          "ask": 0.014492753623188406
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "eldritch-chaos-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 721,
+          "bid": 0.03571428571428571,
+          "ask": 0.02631578947368421
+        },
+        "divine": {
+          "volume": 213,
+          "bid": 6.0,
+          "ask": 4
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "eldritch-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 852,
+          "bid": 0.125,
+          "ask": 0.08333333333333333
+        },
+        "divine": {
+          "volume": 64,
+          "bid": 16,
+          "ask": 16
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "eldritch-orb-of-annulment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 635,
+          "bid": 0.04,
+          "ask": 0.02631578947368421
+        },
+        "divine": {
+          "volume": 148,
+          "bid": 7.0,
+          "ask": 5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "essence-of-delirium",
+    "history": [
+      {
+        "chaos": {
+          "volume": 323,
+          "bid": 0.16666666666666666,
+          "ask": 0.125
+        },
+        "divine": {
+          "volume": 58,
+          "bid": 15.0,
+          "ask": 14.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "essence-of-horror",
+    "history": [
+      {
+        "chaos": {
+          "volume": 912,
+          "bid": 0.1111111111111111,
+          "ask": 0.06711409395973154
+        },
+        "divine": {
+          "volume": 460,
+          "bid": 15.0,
+          "ask": 10
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "essence-of-hysteria",
+    "history": [
+      {
+        "chaos": {
+          "volume": 355,
+          "bid": 0.16666666666666666,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "essence-of-insanity",
+    "history": [
+      {
+        "chaos": {
+          "volume": 243,
+          "bid": 0.2,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "exalted",
+    "history": [
+      {
+        "chaos": {
+          "volume": 4449,
+          "bid": 0.125,
+          "ask": 0.1
+        },
+        "divine": {
+          "volume": 1371,
+          "bid": 25,
+          "ask": 18.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "exceptional-eldritch-ichor",
+    "history": [
+      {
+        "chaos": {
+          "volume": 77,
+          "bid": 0.023809523809523808,
+          "ask": 0.012987012987012988
+        },
+        "divine": {
+          "volume": 6,
+          "bid": 3,
+          "ask": 3
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "exotic-coinage",
+    "history": [
+      {
+        "chaos": {
+          "volume": 711,
+          "bid": 0.4,
+          "ask": 0.25
+        },
+        "divine": {
+          "volume": 69,
+          "bid": 69.0,
+          "ask": 69.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fertile-catalyst",
+    "history": [
+      {
+        "chaos": {
+          "volume": 387,
+          "bid": 0.2,
+          "ask": 0.1
+        },
+        "divine": {
+          "volume": 80,
+          "bid": 20,
+          "ask": 20
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fine-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 854,
+          "bid": 0.2,
+          "ask": 0.09090909090909091
+        },
+        "divine": {
+          "volume": 80,
+          "bid": 20,
+          "ask": 20
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "foreboding-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 42,
+          "bid": 0.25,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fossilised-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 65,
+          "bid": 0.1,
+          "ask": 0.047619047619047616
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fractured-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1,
+          "bid": 0.014285714285714285,
+          "ask": 0.014285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fracturing-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 140,
+          "bid": 0.002777777777777778,
+          "ask": 0.002105263157894737
+        },
+        "divine": {
+          "volume": 67,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fracturing-shard",
+    "history": [
+      {
+        "chaos": {
+          "volume": 310,
+          "bid": 0.05,
+          "ask": 0.043478260869565216
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-constriction",
+    "history": [
+      {
+        "chaos": {
+          "volume": 95,
+          "bid": 0.045454545454545456,
+          "ask": 0.03333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-emptiness",
+    "history": [
+      {
+        "chaos": {
+          "volume": 64,
+          "bid": 0.006993006993006993,
+          "ask": 0.005405405405405406
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-enslavement",
+    "history": [
+      {
+        "chaos": {
+          "volume": 95,
+          "bid": 0.045454545454545456,
+          "ask": 0.034482758620689655
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-eradication",
+    "history": [
+      {
+        "chaos": {
+          "volume": 91,
+          "bid": 0.029411764705882353,
+          "ask": 0.02040816326530612
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-knowledge",
+    "history": [
+      {
+        "chaos": {
+          "volume": 68,
+          "bid": 0.010869565217391304,
+          "ask": 0.007692307692307693
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-purification",
+    "history": [
+      {
+        "chaos": {
+          "volume": 89,
+          "bid": 0.04,
+          "ask": 0.02857142857142857
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-shape",
+    "history": [
+      {
+        "chaos": {
+          "volume": 71,
+          "bid": 0.0125,
+          "ask": 0.008695652173913044
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragmented-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.2,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fundamental-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 203,
+          "bid": 0.125,
+          "ask": 0.05263157894736842
+        },
+        "divine": {
+          "volume": 224,
+          "bid": 11.0,
+          "ask": 10
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "gemcutters-mercy",
+    "history": [
+      {
+        "chaos": {
+          "volume": 5,
+          "bid": 1,
+          "ask": 1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "glyphic-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 19,
+          "bid": 0.07692307692307693,
+          "ask": 0.06666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "grand-eldritch-ember",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1796,
+          "bid": 0.14285714285714285,
+          "ask": 0.07142857142857142
+        },
+        "divine": {
+          "volume": 577,
+          "bid": 15.333333333333334,
+          "ask": 13.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-awakening",
+    "history": [
+      {
+        "chaos": {
+          "volume": 242,
+          "bid": 0.0072992700729927005,
+          "ask": 0.005747126436781609
+        },
+        "divine": {
+          "volume": 60,
+          "bid": 1,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-bloodlines",
+    "history": [
+      {
+        "chaos": {
+          "volume": 189,
+          "bid": 0.0036363636363636364,
+          "ask": 0.0033444816053511705
+        },
+        "divine": {
+          "volume": 21,
+          "bid": 0.625,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-glittering",
+    "history": [
+      {
+        "chaos": {
+          "volume": 166,
+          "bid": 0.2,
+          "ask": 0.06666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-nemeses",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1302,
+          "bid": 0.03225806451612903,
+          "ask": 0.022222222222222223
+        },
+        "divine": {
+          "volume": 66,
+          "bid": 5,
+          "ask": 4.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-pandemonium",
+    "history": [
+      {
+        "chaos": {
+          "volume": 211,
+          "bid": 0.0015151515151515152,
+          "ask": 0.0013351134846461949
+        },
+        "divine": {
+          "volume": 69,
+          "bid": 0.3333333333333333,
+          "ask": 0.25
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "horned-scarab-of-preservation",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.004651162790697674,
+          "ask": 0.004166666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "hydra",
+    "history": [
+      {
+        "chaos": {
+          "volume": 55,
+          "bid": 0.16666666666666666,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ign",
+    "history": [
+      {
+        "chaos": {
+          "volume": 45,
+          "bid": 0.5,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "jewellers-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 475,
+          "bid": 0.2,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "magnum-opus",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.04,
+          "ask": 0.02564102564102564
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mavens-chisel-of-avarice",
+    "history": [
+      {
+        "chaos": {
+          "volume": 236,
+          "bid": 0.14285714285714285,
+          "ask": 0.034482758620689655
+        },
+        "divine": {
+          "volume": 49,
+          "bid": 13.0,
+          "ask": 10
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mavens-chisel-of-scarabs",
+    "history": [
+      {
+        "chaos": {
+          "volume": 231,
+          "bid": 0.0125,
+          "ask": 0.010638297872340425
+        },
+        "divine": {
+          "volume": 12,
+          "bid": 3.0,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "omen-of-amelioration",
+    "history": [
+      {
+        "chaos": {
+          "volume": 139,
+          "bid": 0.01639344262295082,
+          "ask": 0.011111111111111112
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "omen-of-blanching",
+    "history": [
+      {
+        "chaos": {
+          "volume": 86,
+          "bid": 0.019230769230769232,
+          "ask": 0.011111111111111112
+        },
+        "divine": {
+          "volume": 24,
+          "bid": 2,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "omen-of-brilliance",
+    "history": [
+      {
+        "chaos": {
+          "volume": 26,
+          "bid": 0.2,
+          "ask": 0.07692307692307693
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 8,
+          "ask": 8
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "opalescent-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 154,
+          "bid": 0.0625,
+          "ask": 0.03571428571428571
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "orb-of-conflict",
+    "history": [
+      {
+        "chaos": {
+          "volume": 89,
+          "bid": 0.004291845493562232,
+          "ask": 0.0030303030303030303
+        },
+        "divine": {
+          "volume": 21,
+          "bid": 0.6666666666666666,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "orb-of-remembrance",
+    "history": [
+      {
+        "chaos": {
+          "volume": 37,
+          "bid": 0.014705882352941176,
+          "ask": 0.0051813471502590676
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "powerful-chaotic-resonator",
+    "history": [
+      {
+        "chaos": {
+          "volume": 68,
+          "bid": 0.16666666666666666,
+          "ask": 0.05
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "prime-chaotic-resonator",
+    "history": [
+      {
+        "chaos": {
+          "volume": 111,
+          "bid": 0.043478260869565216,
+          "ask": 0.03333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "redeemers-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 8,
+          "bid": 0.0078125,
+          "ask": 0.005555555555555556
+        },
+        "divine": {
+          "volume": 4,
+          "bid": 0.5,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "reflecting-mist",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 19,
+          "bid": 0.027777777777777776,
+          "ask": 0.024390243902439025
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "reflective-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 6,
+          "bid": 0.25,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ritual-scarab-of-abundance",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1566,
+          "bid": 0.2,
+          "ask": 0.14285714285714285
+        },
+        "divine": {
+          "volume": 315,
+          "bid": 35.0,
+          "ask": 35.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ritual-vessel",
+    "history": [
+      {
+        "chaos": {
+          "volume": 110,
+          "bid": 0.16666666666666666,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "runegraft-of-treachery",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.5,
+          "ask": 0.043478260869565216
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "sacred-blossom",
+    "history": [
+      {
+        "chaos": {
+          "volume": 56,
+          "bid": 0.023255813953488372,
+          "ask": 0.015873015873015872
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "sacred-lifeforce",
+    "history": [
+      {
+        "chaos": {
+          "volume": 86,
+          "bid": 0.02,
+          "ask": 0.011764705882352941
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 1.25,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "shapers-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 44,
+          "bid": 0.010869565217391304,
+          "ask": 0.007692307692307693
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "silver-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 102,
+          "bid": 0.02127659574468085,
+          "ask": 0.013333333333333334
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "simulacrum",
+    "history": [
+      {
+        "chaos": {
+          "volume": 192,
+          "bid": 0.02,
+          "ask": 0.014492753623188406
+        },
+        "divine": {
+          "volume": 3,
+          "bid": 3.0,
+          "ask": 3.0
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "singular-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 34,
+          "bid": 0.25,
+          "ask": 0.2
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "syndicate-medallion",
+    "history": [
+      {
+        "chaos": {
+          "volume": 55,
+          "bid": 0.0013869625520110957,
+          "ask": 0.0012135922330097086
+        },
+        "divine": {
+          "volume": 112,
+          "bid": 0.25,
+          "ask": 0.2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tainted-orb-of-fusing",
+    "history": [
+      {
+        "chaos": {
+          "volume": 244,
+          "bid": 0.16666666666666666,
+          "ask": 0.025
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-arohongui-warrior",
+    "history": [
+      {
+        "chaos": {
+          "volume": 40,
+          "bid": 0.14285714285714285,
+          "ask": 0.058823529411764705
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-hinekora-storyteller",
+    "history": [
+      {
+        "chaos": {
+          "volume": 11,
+          "bid": 0.04,
+          "ask": 0.0125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-hinekora-warmonger",
+    "history": [
+      {
+        "chaos": {
+          "volume": 13,
+          "bid": 0.05454545454545454,
+          "ask": 0.037037037037037035
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ngamahu-shaman",
+    "history": [
+      {
+        "chaos": {
+          "volume": 53,
+          "bid": 0.16666666666666666,
+          "ask": 0.058823529411764705
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ngamahu-warmonger",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.04,
+          "ask": 0.020833333333333332
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ngamahu-warrior",
+    "history": [
+      {
+        "chaos": {
+          "volume": 19,
+          "bid": 0.125,
+          "ask": 0.01694915254237288
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ramako-archer",
+    "history": [
+      {
+        "chaos": {
+          "volume": 16,
+          "bid": 0.3333333333333333,
+          "ask": 0.0625
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ramako-fleetfoot",
+    "history": [
+      {
+        "chaos": {
+          "volume": 28,
+          "bid": 0.0625,
+          "ask": 0.013333333333333334
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ramako-scout",
+    "history": [
+      {
+        "chaos": {
+          "volume": 47,
+          "bid": 0.3333333333333333,
+          "ask": 0.043478260869565216
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ramako-sniper",
+    "history": [
+      {
+        "chaos": {
+          "volume": 64,
+          "bid": 0.14285714285714285,
+          "ask": 0.02040816326530612
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-rongokurai-turtle",
+    "history": [
+      {
+        "chaos": {
+          "volume": 7,
+          "bid": 0.007874015748031496,
+          "ask": 0.006666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-tasalio-scout",
+    "history": [
+      {
+        "chaos": {
+          "volume": 18,
+          "bid": 0.2,
+          "ask": 0.037037037037037035
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-tasalio-warrior",
+    "history": [
+      {
+        "chaos": {
+          "volume": 15,
+          "bid": 0.25,
+          "ask": 0.03125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-tawhoa-shaman",
+    "history": [
+      {
+        "chaos": {
+          "volume": 5,
+          "bid": 0.03333333333333333,
+          "ask": 0.025
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-tukohama-shaman",
+    "history": [
+      {
+        "chaos": {
+          "volume": 47,
+          "bid": 0.034482758620689655,
+          "ask": 0.014925373134328358
+        },
+        "divine": {
+          "volume": 5,
+          "bid": 3.0,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-valako-scout",
+    "history": [
+      {
+        "chaos": {
+          "volume": 31,
+          "bid": 0.25,
+          "ask": 0.125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-valako-shieldbearer",
+    "history": [
+      {
+        "chaos": {
+          "volume": 11,
+          "bid": 0.0038461538461538464,
+          "ask": 0.0030303030303030303
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 0.3333333333333333,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-valako-stormrider",
+    "history": [
+      {
+        "chaos": {
+          "volume": 32,
+          "bid": 0.1111111111111111,
+          "ask": 0.041666666666666664
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-valako-warrior",
+    "history": [
+      {
+        "chaos": {
+          "volume": 35,
+          "bid": 0.25,
+          "ask": 0.0625
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "thaumaturges-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 9,
+          "bid": 0.25,
+          "ask": 0.16666666666666666
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-artist",
+    "history": [
+      {
+        "chaos": {
+          "volume": 24,
+          "bid": 0.041666666666666664,
+          "ask": 0.03333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-cheater",
+    "history": [
+      {
+        "chaos": {
+          "volume": 9,
+          "bid": 0.0024937655860349127,
+          "ask": 0.0018181818181818182
+        },
+        "divine": {
+          "volume": 4,
+          "bid": 0.3333333333333333,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-doctor",
+    "history": [
+      {
+        "chaos": {
+          "volume": 23,
+          "bid": 0.003278688524590164,
+          "ask": 0.0024096385542168677
+        },
+        "divine": {
+          "volume": 21,
+          "bid": 1,
+          "ask": 0.4
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-eldritch-decay",
+    "history": [
+      {
+        "chaos": {
+          "volume": 6,
+          "bid": 0.05,
+          "ask": 0.05
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-enlightened",
+    "history": [
+      {
+        "chaos": {
+          "volume": 51,
+          "bid": 0.03225806451612903,
+          "ask": 0.014285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-fortunate",
+    "history": [
+      {
+        "chaos": {
+          "volume": 340,
+          "bid": 0.03571428571428571,
+          "ask": 0.03225806451612903
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-mad-king",
+    "history": [
+      {
+        "chaos": {
+          "volume": 18,
+          "bid": 0.05,
+          "ask": 0.04
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-mavens-writ",
+    "history": [
+      {
+        "chaos": {
+          "volume": 142,
+          "bid": 0.013157894736842105,
+          "ask": 0.011111111111111112
+        },
+        "divine": {
+          "volume": 7,
+          "bid": 2.5,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-scout",
+    "history": [
+      {
+        "chaos": {
+          "volume": 2,
+          "bid": 0.125,
+          "ask": 0.125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-side-quest",
+    "history": [
+      {
+        "chaos": {
+          "volume": 37,
+          "bid": 0.2,
+          "ask": 0.16666666666666666
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "timeless-maraketh-emblem",
+    "history": [
+      {
+        "chaos": {
+          "volume": 96,
+          "bid": 0.1,
+          "ask": 0.07142857142857142
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "timeless-templar-emblem",
+    "history": [
+      {
+        "chaos": {
+          "volume": 91,
+          "bid": 0.25,
+          "ask": 0.1111111111111111
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "traumatic-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 101,
+          "bid": 0.5,
+          "ask": 0.08333333333333333
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "ultimatum-scarab-of-catalysing",
+    "history": [
+      {
+        "chaos": {
+          "volume": 333,
+          "bid": 0.005208333333333333,
+          "ask": 0.004651162790697674
+        },
+        "divine": {
+          "volume": 206,
+          "bid": 0.8333333333333334,
+          "ask": 0.6666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "unstable-implant",
+    "history": [
+      {
+        "chaos": {
+          "volume": 42,
+          "bid": 0.002398081534772182,
+          "ask": 0.001694915254237288
+        },
+        "divine": {
+          "volume": 22,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "valdos-puzzle-box",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1461,
+          "bid": 0.009708737864077669,
+          "ask": 0.007518796992481203
+        },
+        "divine": {
+          "volume": 1137,
+          "bid": 1.75,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "veiled-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 8,
+          "bid": 0.0014285714285714286,
+          "ask": 0.0012578616352201257
+        },
+        "divine": {
+          "volume": 23,
+          "bid": 0.3333333333333333,
+          "ask": 0.2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "wealth-and-power",
+    "history": [
+      {
+        "chaos": {
+          "volume": 54,
+          "bid": 0.008130081300813009,
+          "ask": 0.006024096385542169
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "whispering-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 29,
+          "bid": 0.25,
+          "ask": 0.16666666666666666
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "chaotic-disposition",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1713,
+          "bid": 0.4,
+          "ask": 0.25
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "crusaders-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 4,
+          "bid": 0.00909090909090909,
+          "ask": 0.0058823529411764705
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "deafening-essence-of-scorn",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1716,
+          "bid": 0.3333333333333333,
+          "ask": 0.2
+        },
+        "divine": {
+          "volume": 825,
+          "bid": 28,
+          "ask": 25
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "deafening-essence-of-spite",
+    "history": [
+      {
+        "chaos": {
+          "volume": 1205,
+          "bid": 0.2,
+          "ask": 0.09649122807017543
+        },
+        "divine": {
+          "volume": 4125,
+          "bid": 26,
+          "ask": 20
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "devouring-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 111,
+          "bid": 0.015384615384615385,
+          "ask": 0.011363636363636364
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "divination-scarab-of-pilfering",
+    "history": [
+      {
+        "chaos": {
+          "volume": 241,
+          "bid": 0.047619047619047616,
+          "ask": 0.025
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "hinekoras-lock",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 29,
+          "bid": 0.011111111111111112,
+          "ask": 0.010526315789473684
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "house-of-mirrors",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 107,
+          "bid": 0.014285714285714285,
+          "ask": 0.011111111111111112
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-insane-cat",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 13,
+          "bid": 0.1111111111111111,
+          "ask": 0.07142857142857142
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "divine-beauty",
+    "history": [
+      {
+        "chaos": {
+          "volume": 197,
+          "bid": 0.01098901098901099,
+          "ask": 0.009259259259259259
+        },
+        "divine": {
+          "volume": 2,
+          "bid": 2,
+          "ask": 2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "diviners-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 346,
+          "bid": 0.1,
+          "ask": 0.09090909090909091
+        },
+        "divine": {
+          "volume": 172,
+          "bid": 21.666666666666668,
+          "ask": 21
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "domination-scarab-of-terrors",
+    "history": [
+      {
+        "chaos": {
+          "volume": 224,
+          "bid": 0.008333333333333333,
+          "ask": 0.005263157894736842
+        },
+        "divine": {
+          "volume": 221,
+          "bid": 1,
+          "ask": 0.6666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "echo-of-reverence",
+    "history": [
+      {
+        "chaos": {
+          "volume": 13,
+          "bid": 0.004545454545454545,
+          "ask": 0.0018867924528301887
+        },
+        "divine": {
+          "volume": 1,
+          "bid": 0.5,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "echo-of-trauma",
+    "history": [
+      {
+        "chaos": {
+          "volume": 11,
+          "bid": 0.1,
+          "ask": 0.020833333333333332
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "essence-scarab-of-calcification",
+    "history": [
+      {
+        "chaos": {
+          "volume": 354,
+          "bid": 0.25,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "exceptional-eldritch-ember",
+    "history": [
+      {
+        "chaos": {
+          "volume": 224,
+          "bid": 0.0196078431372549,
+          "ask": 0.014285714285714285
+        },
+        "divine": {
+          "volume": 30,
+          "bid": 3,
+          "ask": 3
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "faceted-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 15,
+          "bid": 0.025,
+          "ask": 0.02040816326530612
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "foulborn-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 44,
+          "bid": 0.002702702702702703,
+          "ask": 0.002352941176470588
+        },
+        "divine": {
+          "volume": 52,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "foulborn-regal-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 141,
+          "bid": 0.16666666666666666,
+          "ask": 0.058823529411764705
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "fragment-of-terror",
+    "history": [
+      {
+        "chaos": {
+          "volume": 70,
+          "bid": 0.007142857142857143,
+          "ask": 0.005263157894736842
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "golden-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 67,
+          "bid": 0.009259259259259259,
+          "ask": 0.006711409395973154
+        },
+        "divine": {
+          "volume": 8,
+          "bid": 1.5,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "harvest-scarab-of-cornucopia",
+    "history": [
+      {
+        "chaos": {
+          "volume": 165,
+          "bid": 0.2,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "hollow-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 6,
+          "bid": 0.0024330900243309003,
+          "ask": 0.001694915254237288
+        },
+        "divine": {
+          "volume": 16,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "home",
+    "history": [
+      {
+        "chaos": {
+          "volume": 15,
+          "bid": 0.1,
+          "ask": 0.05263157894736842
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "hunters-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 12,
+          "bid": 0.005681818181818182,
+          "ask": 0.0035714285714285713
+        },
+        "divine": {
+          "volume": 2,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "i-see-brothers",
+    "history": [
+      {
+        "chaos": {
+          "volume": 4,
+          "bid": 0.004366812227074236,
+          "ask": 0.004
+        },
+        "divine": {
+          "volume": 7,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "imperfect-memories",
+    "history": [
+      {
+        "chaos": {
+          "volume": 17,
+          "bid": 0.0625,
+          "ask": 0.02040816326530612
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "incursion-scarab-of-timelines",
+    "history": [
+      {
+        "chaos": {
+          "volume": 137,
+          "bid": 0.1,
+          "ask": 0.05263157894736842
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "lachrymal-necrosis",
+    "history": [
+      {
+        "chaos": {
+          "volume": 72,
+          "bid": 0.2,
+          "ask": 0.125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "legion-scarab-of-eternal-conflict",
+    "history": [
+      {
+        "chaos": {
+          "volume": 287,
+          "bid": 0.125,
+          "ask": 0.06666666666666667
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "lonely-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 338,
+          "bid": 0.125,
+          "ask": 0.07692307692307693
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mavens-chisel-of-divination",
+    "history": [
+      {
+        "chaos": {
+          "volume": 161,
+          "bid": 0.16666666666666666,
+          "ask": 0.10256410256410256
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mavens-chisel-of-proliferation",
+    "history": [
+      {
+        "chaos": {
+          "volume": 371,
+          "bid": 0.02857142857142857,
+          "ask": 0.01818181818181818
+        },
+        "divine": {
+          "volume": 38,
+          "bid": 6,
+          "ask": 4
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mavens-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 20,
+          "bid": 0.002702702702702703,
+          "ask": 0.002173913043478261
+        },
+        "divine": {
+          "volume": 24,
+          "bid": 0.5,
+          "ask": 0.3333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mawr-blaidd",
+    "history": [
+      {
+        "chaos": {
+          "volume": 79,
+          "bid": 0.1,
+          "ask": 0.05263157894736842
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mirror",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 24,
+          "bid": 0.001937984496124031,
+          "ask": 0.0018248175182481751
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "mirror-shard",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 49,
+          "bid": 0.038461538461538464,
+          "ask": 0.03571428571428571
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "monochrome",
+    "history": [
+      {
+        "chaos": {
+          "volume": 46,
+          "bid": 0.03125,
+          "ask": 0.024096385542168676
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "omen-of-the-jeweller",
+    "history": [
+      {
+        "chaos": {
+          "volume": 39,
+          "bid": 0.2,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "peaceful-moments",
+    "history": [
+      {
+        "chaos": {
+          "volume": 8,
+          "bid": 0.09090909090909091,
+          "ask": 0.09090909090909091
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "phoenix",
+    "history": [
+      {
+        "chaos": {
+          "volume": 53,
+          "bid": 0.16666666666666666,
+          "ask": 0.1
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "prismatic-catalyst",
+    "history": [
+      {
+        "chaos": {
+          "volume": 750,
+          "bid": 0.14285714285714285,
+          "ask": 0.1
+        },
+        "divine": {
+          "volume": 64,
+          "bid": 30,
+          "ask": 17
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "prismatic-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 29,
+          "bid": 0.0047169811320754715,
+          "ask": 0.003257328990228013
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "reality-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 196,
+          "bid": 0.01,
+          "ask": 0.0058823529411764705
+        },
+        "divine": {
+          "volume": 18,
+          "bid": 1.2,
+          "ask": 1.2
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "rebirth-and-renewal",
+    "history": [
+      {
+        "chaos": {
+          "volume": 53,
+          "bid": 0.045454545454545456,
+          "ask": 0.045454545454545456
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "reverent-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 169,
+          "bid": 0.02702702702702703,
+          "ask": 0.017241379310344827
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "runegraft-of-the-warp",
+    "history": [
+      {
+        "chaos": {
+          "volume": 16,
+          "bid": 0.011764705882352941,
+          "ask": 0.006711409395973154
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "sacred-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 183,
+          "bid": 0.030303030303030304,
+          "ask": 0.022222222222222223
+        },
+        "divine": {
+          "volume": 18,
+          "bid": 4,
+          "ask": 3
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "sanctified-fossil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 111,
+          "bid": 0.3333333333333333,
+          "ask": 0.07692307692307693
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "seven-years-bad-luck",
+    "history": [
+      {
+        "chaos": {
+          "volume": 74,
+          "bid": 0.0030303030303030303,
+          "ask": 0.0025
+        },
+        "divine": {
+          "volume": 22,
+          "bid": 0.6,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "skittering-delirium-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 161,
+          "bid": 0.06666666666666667,
+          "ask": 0.03125
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "something-dark",
+    "history": [
+      {
+        "chaos": {
+          "volume": 102,
+          "bid": 0.2,
+          "ask": 0.2
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "synthesising-fragment",
+    "history": [
+      {
+        "chaos": {
+          "volume": 217,
+          "bid": 0.3333333333333333,
+          "ask": 0.07142857142857142
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tailoring-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 74,
+          "bid": 0.006134969325153374,
+          "ask": 0.004608294930875576
+        },
+        "divine": {
+          "volume": 70,
+          "bid": 1,
+          "ask": 0.6666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tainted-catalyst",
+    "history": [
+      {
+        "chaos": {
+          "volume": 299,
+          "bid": 0.125,
+          "ask": 0.06666666666666667
+        },
+        "divine": {
+          "volume": 80,
+          "bid": 16,
+          "ask": 16
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tainted-oil",
+    "history": [
+      {
+        "chaos": {
+          "volume": 10,
+          "bid": 0.001098901098901099,
+          "ask": 0.0009090909090909091
+        },
+        "divine": {
+          "volume": 7,
+          "bid": 0.25,
+          "ask": 0.16666666666666666
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-arohongui-moonwarden",
+    "history": [
+      {
+        "chaos": {
+          "volume": 67,
+          "bid": 0.1111111111111111,
+          "ask": 0.041666666666666664
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-arohongui-scout",
+    "history": [
+      {
+        "chaos": {
+          "volume": 46,
+          "bid": 0.125,
+          "ask": 0.09090909090909091
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-arohongui-shaman",
+    "history": [
+      {
+        "chaos": {
+          "volume": 18,
+          "bid": 0.0032258064516129032,
+          "ask": 0.0021321961620469083
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ngamahu-firewalker",
+    "history": [
+      {
+        "chaos": {
+          "volume": 71,
+          "bid": 0.004,
+          "ask": 0.0025
+        },
+        "divine": {
+          "volume": 4,
+          "bid": 0.5,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-ramako-shaman",
+    "history": [
+      {
+        "chaos": {
+          "volume": 7,
+          "bid": 0.0033333333333333335,
+          "ask": 0.002
+        },
+        "divine": {
+          "volume": 1,
+          "bid": 0.5,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tattoo-of-the-tukohama-warcaller",
+    "history": [
+      {
+        "chaos": {
+          "volume": 9,
+          "bid": 0.02,
+          "ask": 0.015384615384615385
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "tempering-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 140,
+          "bid": 0.008264462809917356,
+          "ask": 0.00625
+        },
+        "divine": {
+          "volume": 89,
+          "bid": 2,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-apothecary",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 122,
+          "bid": 0.038461538461538464,
+          "ask": 0.03225806451612903
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-deep-ones",
+    "history": [
+      {
+        "chaos": {
+          "volume": 11,
+          "bid": 0.2,
+          "ask": 0.19230769230769232
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-dragons-heart",
+    "history": [
+      {
+        "chaos": {
+          "volume": 54,
+          "bid": 0.03125,
+          "ask": 0.022222222222222223
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-garish-power",
+    "history": [
+      {
+        "chaos": {
+          "volume": 2,
+          "bid": 0.4,
+          "ask": 0.4
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-hook",
+    "history": [
+      {
+        "chaos": {
+          "volume": 24,
+          "bid": 0.08333333333333333,
+          "ask": 0.07692307692307693
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-immortal",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 175,
+          "bid": 0.1,
+          "ask": 0.08333333333333333
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-nurse",
+    "history": [
+      {
+        "chaos": {
+          "volume": 116,
+          "bid": 0.027777777777777776,
+          "ask": 0.02
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-patient",
+    "history": [
+      {
+        "chaos": {
+          "volume": 128,
+          "bid": 0.3333333333333333,
+          "ask": 0.14285714285714285
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "the-sephirot",
+    "history": [
+      {
+        "chaos": {
+          "volume": 165,
+          "bid": 0.007692307692307693,
+          "ask": 0.006060606060606061
+        },
+        "divine": {
+          "volume": 13,
+          "bid": 1,
+          "ask": 1
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "unrequited-love",
+    "history": [
+      {
+        "chaos": null,
+        "divine": {
+          "volume": 14,
+          "bid": 0.027777777777777776,
+          "ask": 0.025
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "veiled-chaos-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 375,
+          "bid": 0.16666666666666666,
+          "ask": 0.07692307692307693
+        },
+        "divine": {
+          "volume": 10,
+          "bid": 10,
+          "ask": 10
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "veritanias-crest",
+    "history": [
+      {
+        "chaos": {
+          "volume": 77,
+          "bid": 0.08333333333333333,
+          "ask": 0.0625
+        },
+        "divine": null,
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "voidborn-reliquary-key",
+    "history": [
+      {
+        "chaos": {
+          "volume": 129,
+          "bid": 0.004484304932735426,
+          "ask": 0.0032258064516129032
+        },
+        "divine": {
+          "volume": 138,
+          "bid": 0.8,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "currencyTradeId": "warlords-exalted-orb",
+    "history": [
+      {
+        "chaos": {
+          "volume": 7,
+          "bid": 0.011764705882352941,
+          "ask": 0.006666666666666667
+        },
+        "divine": {
+          "volume": 3,
+          "bid": 0.6666666666666666,
+          "ask": 0.5
+        },
+        "timestamp": "2026-02-10T19:00:00+00:00"
+      }
+    ]
+  }
+]
