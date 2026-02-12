@@ -33,5 +33,5 @@ def get_todays_points():
 
 if __name__ == "__main__":
     points = get_todays_points()
-    with open("Currency/api.json", "w") as f:
+    with open("Currency/currency.json", "w") as f:
         json.dump(points, f, indent=2)

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "the-doctor",
+    "stack_size": 8,
+    "reward": "Headhunter"
+  },
+  {
+    "name": "house-of-mirrors",
+    "stack_size": 9,
+    "reward": "Mirror of Kalandra"
+  },
+  {
+    "name": "the-ethereal",
+    "stack_size": 7,
+    "reward": "Six-Link Vaal Regalia"
+  },
+  {
+    "name": "the-dragon",
+    "stack_size": 4,
+    "reward": "Coruscating Elixir"
+  },
+  {
+    "name": "the-immortal",
+    "stack_size": 10,
+    "reward": "House of Mirrors"
+  },
+  {
+    "name": "mawr-blaidd",
+    "stack_size": 16,
+    "reward": "Eyes of the Greatwolf"
+  },
+  {
+    "name": "rebirth",
+    "stack_size": 27,
+    "reward": "Charan's Sword"
+  },
+  {
+    "name": "the-nurse",
+    "stack_size": 8,
+    "reward": "The Doctor"
+  },
+  {
+    "name": "the-mad-king",
+    "stack_size": 7,
+    "reward": "Vaal Aspect"
+  },
+  {
+    "name": "seven-years-bad-luck",
+    "stack_size": 13,
+    "reward": "Mirror Shard"
+  },
+  {
+    "name": "monochrome",
+    "stack_size": 3,
+    "reward": "Valdo's Puzzle Box"
+  },
+  {
+    "name": "the-deep-ones",
+    "stack_size": 5,
+    "reward": "Tidebreaker"
+  },
+  {
+    "name": "remembrance",
+    "stack_size": 8,
+    "reward": "Precursor's Emblem"
+  },
+  {
+    "name": "the-eldritch-decay",
+    "stack_size": 4,
+    "reward": "Uber Elder Fragment"
+  },
+  {
+    "name": "the-patient",
+    "stack_size": 8,
+    "reward": "The Nurse"
+  },
+  {
+    "name": "broken-promises",
+    "stack_size": 2,
+    "reward": "Diamond Ring"
+  },
+  {
+    "name": "the-apothecary",
+    "stack_size": 5,
+    "reward": "Mageblood"
+  },
+  {
+    "name": "the-insane-cat",
+    "stack_size": 9,
+    "reward": "Mageblood"
+  }
+]
